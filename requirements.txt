@@ -1,0 +1,7 @@
+langchain
+streamlit
+pypdf
+huggingface-hub
+ctransformers
+replicate
+pandas
